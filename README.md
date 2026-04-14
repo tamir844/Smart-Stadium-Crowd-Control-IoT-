@@ -40,13 +40,3 @@ This project was specifically upgraded to demonstrate world-class desktop UI tec
 python start_system.py
 ```
 
-## How to Upload to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Added Premium UI/UX capabilities and strict capacity logic"
-git branch -M main
-git remote add origin <YOUR_REPO_URL>
-git push -u origin main
-```
